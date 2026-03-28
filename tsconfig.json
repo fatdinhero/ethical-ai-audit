@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "target": "es2020",\n    "module": "commonjs",\n    "strict": true,\n    "sourceMap": true\n  }\n}
